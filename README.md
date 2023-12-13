@@ -4,10 +4,10 @@
 
 ## Authors
 
-👤  **xxxxxxxxxx**
+👤  **Temijopelo Jeje**
 
-- GitHub: [@xxxxxx](https://github.com/xxxxxx)
-- Twitter: [@xxxxxxx](https://twitter.com/xxxxxxx)
+- GitHub: [@Temijopelo](https://github.com/temijopelo)
+- Twitter: [@JopeJeje](https://twitter.com/jopejeje)
 
 👤  **Martinez Teji**
 
